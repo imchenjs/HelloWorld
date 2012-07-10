@@ -28,4 +28,5 @@
 	}
 	
 	//echo "End of init.inc.php<br />";
+	// END
 ?>
